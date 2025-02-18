@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE MusicCollection [
+<!ENTITY R "Rock" >
+<!ENTITY S "Soft" >
+<!ENTITY RA "Rap" >
+<!ENTITY HH "Hiphop" >
+<!ENTITY F "Flok" >
+]>

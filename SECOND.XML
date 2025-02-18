@@ -1,0 +1,21 @@
+<!DOCTYPE Letter [
+<!ENTITY address "15 Downing ST Floor 1">
+<!ENTITY city "karachi">
+]>
+
+<letter>
+<To>&qout;Tom smith&qout;</To>
+<Address>&address;</Address>
+<City>&city;</City>
+
+<Body>
+Hi ! How are you?
+The sum is &gt; $1000
+<Body>
+<Form>ARNOLD</From>
+</Letter> 
+
+
+
+
+</letter>
